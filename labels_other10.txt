@@ -1,0 +1,13 @@
+O
+S-supplier_email
+S-shipping_address
+S-pan_number
+S-total_taxable
+S-total_cgst
+S-total_sgst
+S-bank_details
+S-supplier_phone
+S-total_igst
+S-payment_due_date
+S-place_of_supply
+S-invoice_currency

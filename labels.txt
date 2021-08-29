@@ -1,0 +1,10 @@
+O
+S-invoice_number
+S-invoice_date
+S-buyer_name
+S-buyer_address
+S-supplier_name
+S-supplier_address
+S-invoice_amount
+S-buyer_gstin
+S-supplier_gstin
